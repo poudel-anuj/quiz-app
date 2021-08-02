@@ -1,0 +1,90 @@
+[
+    {
+        "1": "Who created Flutter?",
+        "2": "What is Flutter??",
+        "3": "Which programing language is used by Flutter",
+        "4": "Is Flutter for Web and Desktop available in stable version? ?",
+        "5": "The first alpha version of Flutter was released in ?",
+        "6": "Which of the following keyword is used to define a function in Python ?",
+        "7": "Which function finds out the Variable type in Python ?",
+        "8": "Which of the following keyword is used to define a function in Python ?",
+        "9": "Which function finds out the Variable type in Python ?",
+        "10": "Which of the following keyword is used to define a function in Python ?"
+       
+    },
+    {
+        "1": {
+            "a": "Facebook",
+            "b": "Adobe",
+            "c": "Google",
+            "d": "Microsoft"
+        },
+        "2": {
+            "a": "Android Development Kit",
+            "b": "IOS Development Kit",
+            "c": "Web Development Kit",
+            "d": "All"
+        },
+        "3": {
+            "a": "Ruby",
+            "b": "Dart",
+            "c": "C++",
+            "d": "Java"
+        },
+        "4": {
+            "a": "yes",
+            "b": "no",
+            "c": "later",
+            "d": "never"
+        },
+        "5": {
+            "a": "May 2017",
+            "b": "May 2018",
+            "c": "May 2019",
+            "d": "Jun 2017"
+        },
+        "6": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "7": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "8": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+        "9": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "10": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+        
+    },
+    {
+        "1": "Google",
+        "2": "All",
+        "3": "Dart",
+        "4": "yes",
+        "5": "May 2017",
+        "6": "def",
+        "7": "type",
+        "8": "def",
+        "9": "type",
+        "10": "def"
+    }
+]
